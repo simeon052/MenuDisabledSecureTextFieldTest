@@ -25,20 +25,8 @@ namespace MenuDisabledSecureTextFieldTest
 
         public override void RightMouseDown(NSEvent theEvent)
         {
-            NextResponder.RightMouseDown(theEvent);
+            //  NextResponder.RightMouseDown(theEvent);
         }
-
-        public override NSMenu MenuForEvent(NSEvent theEvent)
-        {
-            return null;
-        }
-
-        public override void WillOpenMenu(NSMenu menu, NSEvent theEvent)
-        {
-            base.WillOpenMenu(menu, theEvent);
-        }
-
-
     }
 
     [Register("MenuDisabledTextField")]
@@ -79,25 +67,11 @@ namespace MenuDisabledSecureTextFieldTest
         }
         private void initialize()
         {
-            this.Menu = new NSMenu();
 
         }
-        public override NSMenu MenuForEvent(NSEvent theEvent, CGRect cellFrame, NSView view)
+        public override void DidChangeValue(string forKey)
         {
-            System.Diagnostics.Debug.WriteLine(this.Menu.ToString());
-            return null;//base.MenuForEvent(theEvent, cellFrame, view);
-        }
-        public override bool TrackMouse(NSEvent theEvent, CGRect cellFrame, NSView controlView, bool untilMouseUp)
-        {
-            System.Diagnostics.Debug.WriteLine("In TrackMouse");
-
-            return base.TrackMouse(theEvent, cellFrame, controlView, untilMouseUp);
-        }
-
-        public override NSObject AccessibilityShownMenu
-        {
-            get => null;
-            set => base.AccessibilityShownMenu = value;
+            base.DidChangeValue(forKey);
         }
     }
 }

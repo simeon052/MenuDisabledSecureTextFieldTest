@@ -6,9 +6,9 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/AppIcon.icns</string>
-			<string>/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/Assets.car</string>
-			<string>/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/partial-info.plist</string>
+			<string>/Users/matsussa/Documents/GitHub/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/AppIcon.icns</string>
+			<string>/Users/matsussa/Documents/GitHub/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/Assets.car</string>
+			<string>/Users/matsussa/Documents/GitHub/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>
