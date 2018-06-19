@@ -1,0 +1,15 @@
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/bin/Debug/MenuDisabledSecureTextFieldTest.exe
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/bin/Debug/MenuDisabledSecureTextFieldTest.pdb
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/partial-info.plist
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/asset-manifest.plist
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/actool/bundle/Assets.car
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/MenuDisabledSecureTextFieldTest.csprojResolveAssemblyReference.cache
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/MenuDisabledSecureTextFieldTest.csproj.CoreCompileInputs.cache
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/MenuDisabledSecureTextFieldTest.exe
+/Users/matsussa/Projects/MenuDisabledSecureTextFieldTest/MenuDisabledSecureTextFieldTest/obj/x86/Debug/MenuDisabledSecureTextFieldTest.pdb
