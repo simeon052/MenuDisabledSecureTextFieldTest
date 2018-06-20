@@ -25,6 +25,7 @@ namespace MenuDisabledSecureTextFieldTest
 
         public override void RightMouseDown(NSEvent theEvent)
         {
+            System.Diagnostics.Debug.WriteLine("right-clicked!!");
             //  NextResponder.RightMouseDown(theEvent);
         }
     }
@@ -69,6 +70,11 @@ namespace MenuDisabledSecureTextFieldTest
         {
 
         }
+        public override NSMenu MenuForEvent(NSEvent theEvent, CGRect cellFrame, NSView view)
+        {
+            return base.MenuForEvent(theEvent, cellFrame, view);
+        }
+
         public override void DidChangeValue(string forKey)
         {
             base.DidChangeValue(forKey);

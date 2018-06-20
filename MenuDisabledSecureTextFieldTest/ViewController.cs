@@ -16,6 +16,9 @@ namespace MenuDisabledSecureTextFieldTest
             base.ViewDidLoad();
 
             // Do any additional setup after loading the view.
+            secTf2.Delegate = new SecurityTextFieldDelegate();
+            TF.Delegate = new SecurityTextFieldDelegate();
+
         }
 
         public override NSObject RepresentedObject

@@ -698,7 +698,7 @@
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
                                 </textFieldCell>
                             </textField>
-                            <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7Jn-er-mWG" customClass="MenuDisabledTextField">
+                            <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7Jn-er-mWG">
                                 <rect key="frame" x="199" y="177" width="227" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" drawsBackground="YES" id="VJp-RS-2bf">
@@ -709,6 +709,14 @@
                             </textField>
                         </subviews>
                     </view>
+                    <connections>
+                        <outlet property="TF" destination="7Jn-er-mWG" id="Bqw-fz-NN7"/>
+                        <outlet property="secTF" destination="oBO-Uq-zp9" id="Zvy-ch-xOG"/>
+                        <outlet property="secTf" destination="oBO-Uq-zp9" id="d9r-Ak-bXu"/>
+                        <outlet property="secTf2" destination="oBO-Uq-zp9" id="NxP-FD-45z"/>
+                        <outlet property="secTfCell" destination="d7l-kP-ipB" id="2qf-YK-tr5"/>
+                        <outlet property="stf" destination="d7l-kP-ipB" id="f4t-mN-41g"/>
+                    </connections>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
             </objects>

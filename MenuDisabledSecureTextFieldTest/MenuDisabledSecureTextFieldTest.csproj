@@ -78,6 +78,7 @@
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
     <Compile Include="DisabledMenuSecureFieldClass.cs" />
+    <Compile Include="SecTFDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />
